@@ -1,0 +1,7 @@
+{
+  "name": "Leftover Intelligence",
+  "description": "Minimalist scanner for leftovers with AI freshness analysis, spoilage risk alerts, and zero-waste recipe generation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
